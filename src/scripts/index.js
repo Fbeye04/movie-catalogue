@@ -25,7 +25,7 @@ window.addEventListener('load', async () => {
 
   // Initialize footer tools
   FooterToolsInitiator.init({
-    subscribeButton: document.querySelector('#subscibePushNotification'),
+    subscribeButton: document.querySelector('#subscribePushNotification'),
     unsubscribeButton: document.querySelector('#unsubscribePushNotification'),
   });
 });
